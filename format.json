@@ -1,0 +1,28 @@
+{
+    "customer_id": "string",
+    "refund_id": "string",
+    "transaction_id": "string",
+    "reason": "string",
+    "amount_refunded": "number",
+    "refund_date": "string",
+    "customer_details": {
+      "name": "string",
+      "email": "string",
+      "phone": "string",
+      "address": "string"
+    },
+    "transaction_details": {
+      "payment_method": "string",
+      "transaction_date": "string",
+      "order_total": "number",
+      "order_items": [
+        {
+          "item_id": "string",
+          "item_name": "string",
+          "quantity": "integer",
+          "unit_price": "number"
+        }
+      ]
+    }
+  }
+  

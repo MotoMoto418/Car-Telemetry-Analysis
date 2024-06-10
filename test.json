@@ -1,0 +1,19 @@
+{
+    "vehicle_id": "string",
+    "timestamp": "dateTime",
+    "latitude": "string",
+    "longitude": "string",
+    "speed": "float",
+    "fuel_level": "float",
+    "engine_temperature": "float",
+    "odometer": "integer",
+    "engine_status": "string",
+    "battery_voltage": "float",
+    "front_left": "integer",
+    "front_right": "integer",
+    "rear_left": "integer",
+    "rear_right": "integer",
+    "owner_name": "string",
+    "driving_license_number": "string"
+  }
+  

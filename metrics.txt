@@ -1,0 +1,11 @@
+batch # 0, time: 2.535634756088257 s
+batch # 1, time: 0.9685139656066895 s
+batch # 2, time: 0.8464081287384033 s
+batch # 3, time: 0.7399551868438721 s
+batch # 4, time: 0.6435153484344482 s
+batch # 5, time: 0.6896417140960693 s
+batch # 6, time: 0.6254079341888428 s
+batch # 7, time: 0.5290095806121826 s
+batch # 8, time: 0.6171917915344238 s
+Average time taken per batch: 0.9106 s
+Average entries per second: 402.44
